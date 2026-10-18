@@ -1,0 +1,5 @@
+-r requirements.txt
+faiss-cpu==1.12.0
+transformers==4.57.3
+# Install torch==2.11.0+cu128 separately from the official PyTorch cu128 index
+# for the tested RTX 5090 setup. CPU builds also work, but are slower.

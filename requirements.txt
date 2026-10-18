@@ -1,0 +1,7 @@
+joblib==1.6.0
+lightgbm==4.7.0
+numpy==2.5.4
+openpyxl==3.1.5
+rapidfuzz==3.14.6
+scikit-learn==1.9.1
+scipy==1.18.1

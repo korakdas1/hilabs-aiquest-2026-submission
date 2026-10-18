@@ -1,0 +1,5 @@
+chunk_id,clinical_entity,chunk_text
+hard-1,MS,Neurology follow-up for multiple sclerosis with gait difficulty.
+hard-2,chronickidney disease stag 3,Chronic kidney disease stage 3 is listed in the assessment.
+hard-3,left knee pain,The patient reports pain limited to the left knee after a fall.
+hard-4,type 2 diabetes,The assessment lists type 2 diabetes without documented complications.

@@ -1,0 +1,4 @@
+chunk_id,clinical_entity,chunk_text
+demo-1,HTN,The patient has longstanding hypertension treated with medication.
+demo-2,chronickidney disease stag 3,The note documents chronic kidney disease stage 3.
+demo-3,left knee pain,The patient reports pain in the left knee after a fall.
